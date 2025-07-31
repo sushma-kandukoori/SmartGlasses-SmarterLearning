@@ -1,21 +1,32 @@
-# SmartGlasses-SmarterLearning
-A smart glasses project designed for smarter learning using AI and embedded systems
+# Smart Glasses for Smarter Learning
 
-## Overview
-Smart glasses designed to enhance learning experiences using AI and embedded systems. 
-This project integrates vision-based learning assistance, real-time information display, 
-and secure student attendance management.
+![Smart Glasses Prototype](https://via.placeholder.com/800x400.png?text=Smart+Glasses+Prototype)
 
-## Features
-- Real-time text recognition and translation
-- Augmented learning content
-- Fast and secure attendance manager
-- Lightweight, wearable design
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/YourUsername/SmartGlasses-SmarterLearning.svg)](https://github.com/YourUsername/SmartGlasses-SmarterLearning/issues)
+[![GitHub stars](https://img.shields.io/github/stars/YourUsername/SmartGlasses-SmarterLearning.svg)](https://github.com/YourUsername/SmartGlasses-SmarterLearning/stargazers)
 
-## Technology Stack
-- Embedded C / Arduino
-- AI (Python-based models)
-- IoT Sensors
+---
 
-## Author
-Sushma Kandukoori
+## 📖 Overview
+Smart Glasses for Smarter Learning is an IoT and AI-powered wearable device designed to enhance learning experiences.  
+It integrates **real-time learning assistance**, **secure attendance management**, and **augmented information display**.
+
+---
+
+## ✨ Features
+- **Text Recognition** – Converts written notes into digital format.
+- **Real-Time Translation** – Helps in understanding multiple languages.
+- **Secure Attendance Manager** – Fast and secure student attendance system.
+- **Lightweight Wearable Design** – Comfortable and portable.
+
+---
+
+## 🛠️ Technology Stack
+- **Hardware:** ESP32 / Arduino / IoT Sensors
+- **Software:** Embedded C, Python (for AI)
+- **Tools:** GitHub, Arduino IDE, TensorFlow Lite (optional for AI)
+
+---
+
+## 📂 Project Structure
